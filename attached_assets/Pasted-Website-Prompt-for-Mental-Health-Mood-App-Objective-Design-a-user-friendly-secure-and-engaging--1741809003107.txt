@@ -1,0 +1,61 @@
+Website Prompt for Mental Health & Mood App
+Objective:
+Design a user-friendly, secure, and engaging website for a Mental Health & Mood App that uses AI to help users track their emotions, improve well-being, and provide personalized support.
+
+Key Features to Showcase:
+Facial Emotion Recognition:
+
+Description: AI detects emotions (happiness, sadness, stress) by analyzing facial expressions in real-time.
+User Benefit: Helps users understand their emotions without manual input.
+Mood Tracking & History:
+
+Description: Visual dashboard to track mood patterns over time.
+User Benefit: Allows users to monitor their emotional trends and identify triggers.
+Personalized Mental Health Tests:
+
+Description: Short, research-backed quizzes assess anxiety, depression, and stress levels.
+User Benefit: Provides users with personalized insights into their mental health.
+Therapeutic Recommendations:
+
+Description: Personalized exercises (e.g., mindfulness, breathing techniques) based on mood data.
+User Benefit: Helps users manage stress and improve mental well-being with tailored activities.
+Daily Mood Journal:
+
+Description: Users log daily feelings and track emotional patterns.
+User Benefit: Promotes self-awareness and emotional growth.
+AI Chatbot for Support:
+
+Description: Provides instant emotional support, self-care tips, and motivational content.
+User Benefit: Offers on-demand support for mental well-being.
+Privacy-Focused Design:
+
+Description: Local data processing and encryption ensure privacy and security.
+User Benefit: Builds trust by keeping sensitive information secure.
+Text & Voice Analysis:
+
+Description: Analyzes journal entries and chatbot conversations for emotional tone.
+User Benefit: Provides deeper emotional insights for personalized feedback.
+Website Structure:
+Home Page:
+
+Catchy headline with a brief app description.
+Call-to-action buttons for downloading or exploring features.
+Features Page:
+
+Simple, engaging breakdown of each feature with visuals.
+Clear benefits and use cases for each tool.
+How It Works Page:
+
+Easy-to-follow steps on how the app functions, with visual mockups.
+Privacy & Security Page:
+
+Explain data encryption and privacy protection to build trust.
+FAQ Section:
+
+Address common questions and provide troubleshooting tips.
+Contact Page:
+
+Quick access to support and customer service options.
+Download Page:
+
+Direct links for app downloads on iOS and Android.
