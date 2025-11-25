@@ -36,7 +36,7 @@ const presetQuestions = [
   "How can I sleep better tonight?"
 ];
 
-const GEMINI_API_KEY = "AIzaSyDedfpieWlZEdoykMrHMrYP2n2u_dC9sN0"; // Your API key
+const GEMINI_API_KEY = "XXXXXXXX"; // Your API key
 
 const ChatbotDemo = () => {
   const [messages, setMessages] = useState<Message[]>([
